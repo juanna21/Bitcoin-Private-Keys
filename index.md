@@ -1,37 +1,131 @@
-## Welcome to GitHub Pages
+## Bitcoin Private Keys with million in balance 
 
-You can use the [editor on GitHub](https://github.com/juanna21/Bitcoin-Private-Keys/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bitcoin Private Keys with million in balance fresh hacked from exchange all the wallets am offering now are big ones recently hacked from some crypto exchange binance and they are a 100% legit.
+ 
+We send the private key to the first person who send a payment for it and it will be marked as sold. We recommend swap the Bitcoins to private coins like Monero/zCash/Safex/daps/apollo etc. to wash them. That's it.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+1HpELbqG3SntcYHyJgTXtHQs56p3bteG3Q
 
-# Header 1
-## Header 2
-### Header 3
+Privkey: 5K8kQm******************************gUIMQBfx9
 
-- Bulleted
-- List
+Balance: 675.860 
 
-1. Numbered
-2. List
+Price: 150 BTC
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juanna21/Bitcoin-Private-Keys/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+198aMn6ZYAczwrE5NvNTUMyJ5qkfy4g3Hi
 
-### Support or Contact
+Privkey: 5KSFWJ******************************jsLi2RuJF
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Balance: 8000 BTC
+
+Price: 250 BTC
+
+
+
+
+
+136pcbRqE5XeayiisdgAiJZezsiQufLH16
+
+Privkey: 5HyeEn******************************gb33HePmg
+
+Balance: 9107 BTC
+
+Price: 350 BTC
+
+
+
+
+
+19G5kkYvjawZiYKhFeh8WmfBN31pdP94Jr
+
+Privkey: 5KSow4******************************Np5XV4zER
+
+Balance: 11 102,000BTC
+
+Price: 450 BTC
+
+
+
+
+
+
+3D2oetdNuZUqQHPJmcMDDHYoqkyNVsFk9r
+
+Privkey: 5HtZUC******************************Y8CYKPyUG
+
+Balance: 76 893 BTC
+
+Price: 1000 BTC
+
+
+
+
+
+
+3NXPhnNYxjsE4Y7V27AvkoPzZGWVx7azdN
+
+Privkey: 5QApe7******************************Xw8BV2aYL
+
+Balance: 77.72 BTC
+
+price = 25 BTC
+
+
+
+
+
+
+1GqaJfWWtrnP4tcFePjouXfErpUgiH2j8d
+
+Privkey: 5SPti1******************************Nq5CX3jRM
+
+Balance: 43.458 BTC
+
+price = 15 BTC
+
+
+
+
+
+
+
+18Pb3PMbt23fpJaE3YKiqeLPLy1aPZvFTf
+
+Privkey: 5AZrt8******************************Wf3UA3HO
+
+Balance: 28 BTC
+
+price = 10 BTC
+
+
+
+
+
+
+
+
+
+1Eq4GUsoYW2W6ofuWEz3tnwsYXhxKU8qjC
+
+Privkey: 5DGsa8******************************Ja1XQ5KM
+
+Balance: 132 BTC
+
+price = 30 BTC
+
+
+ 
+ 
+##   Payment address : 
+
+##   1PgpWKd93LNaqbwAnBM9q8vt8EZLuEW2Wq
+
+
+
